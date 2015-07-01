@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["developer@neurodynamic.io"]
   spec.summary       = %q{"Load more" button for apps in the Volt framework.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/neurodynamic/volt-load_more"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
